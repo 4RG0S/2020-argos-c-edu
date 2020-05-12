@@ -1,7 +1,6 @@
 # 2020-argos-c-edu
+---
 <br/>
-
-
 
 # week 1
 
