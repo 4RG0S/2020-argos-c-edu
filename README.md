@@ -37,3 +37,16 @@
 
 ---
 
+# week3
+
+1. 과제 리뷰(주소 연산, Integer overflow)
+2. 반복문
+3. 배열
+4. 문자열
+
+
+
+(과제)
+
+1. Buffer Overflow
+2. 별 피라미드
