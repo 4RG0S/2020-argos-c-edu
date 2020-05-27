@@ -50,3 +50,28 @@
 
 1. Buffer Overflow
 2. 별 피라미드
+
+
+
+<br/>
+
+---
+
+# week4
+
+1. 과제 리뷰(Buffer Overflow. 별 피라미드)
+2. 함수
+3. 포인터 (기본)
+
+
+
+(과제)
+
+1. swap 함수 구현(call by value, call by references)
+
+
+
+<br/>
+
+---
+
