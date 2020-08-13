@@ -75,3 +75,17 @@
 
 ---
 
+# week5
+
+1. 과제 리뷰(call by value, reference)
+2. 리뷰(포인터)
+3. 배열과 포인터
+4. 함수 포인터
+
+<br/>
+
+---
+
+# week6
+
+1. malloc
