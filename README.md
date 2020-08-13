@@ -1,5 +1,6 @@
 # 2020-argos-c-edu
 ---
+lecture youtube : https://www.youtube.com/watch?v=YIutHWMonDo&list=PLKvsDZXPa_0wX-K-iTut7h8ZEMUV_nvXH
 <br/>
 
 # week 1
